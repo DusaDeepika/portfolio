@@ -10,6 +10,7 @@ import {
     javascript,
     typescript,
     sql,
+    imaginify,
     express,
     bootstrap,
     ecommerce,
@@ -244,24 +245,28 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Imaginify",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Imaginify is a cloud-based image transformation platform that leverages Cloudinary AI for tasks like background color removal, object removal, and various other advanced image editing features. The system provides a seamless way for users to modify images as per their requirements using AI-driven solutions.",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "mongodb",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "react",
           color: "pink-text-gradient",
         },
+        {
+          name: "typescript",
+          color: "blue-text-gradient",
+        },
       ],
-      image: tripguide,
+      image: imaginify,
       source_code_link: "https://github.com/",
     },
   ];
