@@ -8,6 +8,7 @@ import ecommerce from "./ecommerce.png";
 import snapgram from "./snapgram.png";
 import businesswebsol from "./businesswebsol.png";
 import ism2 from "./ism2.png";
+import imaginify from "./imaginify.png";
 import sql from "./sql.png";
 import bootstrap from "./bootstrap.png";
 import express from "./express.png";
@@ -57,6 +58,7 @@ export {
   github,
   menu,
   close,
+  imaginify,
   css,
   docker,
   figma,
